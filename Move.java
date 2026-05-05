@@ -1,0 +1,1 @@
+public record Move(int row, int col, int previousValue) {}
